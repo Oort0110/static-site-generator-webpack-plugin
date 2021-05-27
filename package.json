@@ -34,7 +34,7 @@
     "coveralls": "^3.0.2",
     "dir-compare": "^1.4.0",
     "ejs": "^2.3.4",
-    "es6-promisify": "^6.0.0",
+    "es6-promisify": "^7.0.0",
     "glob": "^7.0.3",
     "jest": "^23.6.0",
     "node-dir": "^0.1.17",
