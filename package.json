@@ -39,7 +39,7 @@
     "jest": "^23.6.0",
     "node-dir": "^0.1.17",
     "rimraf": "^2.4.4",
-    "webpack": "^1.12.10",
+    "webpack": "^5.42.0",
     "webpack-stats-plugin": "^0.1.1"
   }
 }
